@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/info-react-testing-with-context/static/css/main.7c3f747c.css",
+    "main.js": "/info-react-testing-with-context/static/js/main.e8fa76db.js",
+    "index.html": "/info-react-testing-with-context/index.html",
+    "main.7c3f747c.css.map": "/info-react-testing-with-context/static/css/main.7c3f747c.css.map",
+    "main.e8fa76db.js.map": "/info-react-testing-with-context/static/js/main.e8fa76db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c3f747c.css",
+    "static/js/main.e8fa76db.js"
+  ]
+}
